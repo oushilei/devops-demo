@@ -295,3 +295,4 @@ docker build -t devops-demo:slim .
 | 操作系统   | CentOS Linux 7 (Core)       |
 | 内核     | 3.10.0-1160.71.1.el7.x86_64 |
 | Docker | 26.1.4                      |
+
